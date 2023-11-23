@@ -1,0 +1,47 @@
+[
+    {
+        "id" : 3.1,
+        "objetivo": "Até 2030, reduzir a taxa de mortalidade materna global para menos de 70 mortes por 100.000 nascidos vivos",
+        "indicadores" : ["3.1.1", "3.1.2"]
+    },
+    {
+        "id" : 3.2,
+        "objetivo": "Até 2030, acabar com as mortes evitáveis de recém-nascidos e crianças menores de 5 anos, com todos os países objetivando reduzir a mortalidade neonatal para pelo menos 12 por 1.000 nascidos vivos e a mortalidade de crianças menores de 5 anos para pelo menos 25 por 1.000 nascidos vivos",
+        "indicadores" : ["3.2.1", "3.2.2"]
+    },
+    {
+        "id" : 3.3,
+        "objetivo": "Até 2030, acabar com as epidemias de AIDS, tuberculose, malária e doenças tropicais negligenciadas, e combater a hepatite, doenças transmitidas pela água, e outras doenças transmissíveis",
+        "indicadores" : ["3.3.2", "3.3.3", "3.3.4", "3.3.5"]
+    },
+    {
+        "id" : 3.4,
+        "objetivo": "Até 2030, reduzir em um terço a mortalidade prematura por doenças não transmissíveis via prevenção e tratamento, e promover a saúde mental e o bem-estar",
+        "indicadores" : ["3.4.1", "3.4.2"]
+    },
+    {
+        "id" : 3.5,
+        "objetivo": "Reforçar a prevenção e o tratamento do abuso de substâncias, incluindo o abuso de drogas entorpecentes e uso nocivo do álcool",
+        "indicadores" : ["3.5.2"]
+    },
+    {
+        "id" : 3.6,
+        "objetivo": "Até 2020, reduzir pela metade as mortes e os ferimentos globais por acidentes em estradas",
+        "indicadores" : ["3.6.1"]
+    },
+    {
+        "id" : 3.7,
+        "objetivo": "Até 2030, assegurar o acesso universal aos serviços de saúde sexual e reprodutiva, incluindo o planejamento familiar, informação e educação, bem como a integração da saúde reprodutiva em estratégias e programas nacionais",
+        "indicadores" : ["3.7.2"]
+    },
+    {
+        "id" : 3.8,
+        "objetivo": "Atingir a cobertura universal de saúde, incluindo a proteção do risco financeiro, o acesso a serviços de saúde essenciais de qualidade e o acesso a medicamentos e vacinas essenciais seguros, eficazes, de qualidade e a preços acessíveis para todos",
+        "indicadores" : ["3.8.2"]
+    },
+    {
+        "id" : 3.9,
+        "objetivo": "Até 2030, reduzir substancialmente o número de mortes e doenças por produtos químicos perigosos, contaminação e poluição do ar e água do solo",
+        "indicadores" : ["3.9.2", "3.9.3"]
+    }
+]

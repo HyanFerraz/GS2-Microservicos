@@ -1,0 +1,137 @@
+{
+  "titulo": "Proporção de gastos familiar em saúde em relação ao total de gastos",
+  "regiao": {
+    "Brasil": {
+      "Proporção acima de 10%": "18,6",
+      "Proporçăo acima de 25%": "3,7"
+    },
+    "Norte": {
+      "Proporção acima de 10%": "10,9",
+      "Proporçăo acima de 25%": "1,3"
+    },
+    "Rondônia": {
+      "Proporção acima de 10%": "18,8",
+      "Proporçăo acima de 25%": "3,5"
+    },
+    "Acre": {
+      "Proporção acima de 10%": "11,5",
+      "Proporçăo acima de 25%": "1,4"
+    },
+    "Amazonas": {
+      "Proporção acima de 10%": "3,3",
+      "Proporçăo acima de 25%": "0,4"
+    },
+    "Roraima": {
+      "Proporção acima de 10%": "10,3",
+      "Proporçăo acima de 25%": "1,2"
+    },
+    "Pará": {
+      "Proporção acima de 10%": "11,8",
+      "Proporçăo acima de 25%": "1,1"
+    },
+    "Amapá": {
+      "Proporção acima de 10%": "7,7",
+      "Proporçăo acima de 25%": "0,8"
+    },
+    "Tocantins": {
+      "Proporção acima de 10%": 15,
+      "Proporçăo acima de 25%": "2,3"
+    },
+    "Nordeste": {
+      "Proporção acima de 10%": 17,
+      "Proporçăo acima de 25%": "3,2"
+    },
+    "Maranhão": {
+      "Proporção acima de 10%": "14,7",
+      "Proporçăo acima de 25%": "2,7"
+    },
+    "Piauí": {
+      "Proporção acima de 10%": "19,7",
+      "Proporçăo acima de 25%": "3,8"
+    },
+    "Ceará": {
+      "Proporção acima de 10%": "14,2",
+      "Proporçăo acima de 25%": "1,9"
+    },
+    "Rio Grande do Norte": {
+      "Proporção acima de 10%": "15,2",
+      "Proporçăo acima de 25%": "2,6"
+    },
+    "Paraíba": {
+      "Proporção acima de 10%": "17,3",
+      "Proporçăo acima de 25%": "4,3"
+    },
+    "Pernambuco": {
+      "Proporção acima de 10%": "17,2",
+      "Proporçăo acima de 25%": 3
+    },
+    "Alagoas": {
+      "Proporção acima de 10%": 19,
+      "Proporçăo acima de 25%": "4,5"
+    },
+    "Sergipe": {
+      "Proporção acima de 10%": "17,2",
+      "Proporçăo acima de 25%": "3,1"
+    },
+    "Bahia": {
+      "Proporção acima de 10%": "18,6",
+      "Proporçăo acima de 25%": "3,8"
+    },
+    "Sudeste": {
+      "Proporção acima de 10%": "20,7",
+      "Proporçăo acima de 25%": "4,2"
+    },
+    "Minas Gerais": {
+      "Proporção acima de 10%": "21,9",
+      "Proporçăo acima de 25%": "4,8"
+    },
+    "Espírito Santo": {
+      "Proporção acima de 10%": "19,9",
+      "Proporçăo acima de 25%": "4,6"
+    },
+    "Rio de Janeiro": {
+      "Proporção acima de 10%": "18,8",
+      "Proporçăo acima de 25%": 4
+    },
+    "São Paulo": {
+      "Proporção acima de 10%": "21,1",
+      "Proporçăo acima de 25%": "3,9"
+    },
+    "Sul": {
+      "Proporção acima de 10%": "19,4",
+      "Proporçăo acima de 25%": "4,2"
+    },
+    "Paraná": {
+      "Proporção acima de 10%": "21,1",
+      "Proporçăo acima de 25%": "5,1"
+    },
+    "Santa Catarina": {
+      "Proporção acima de 10%": "16,3",
+      "Proporçăo acima de 25%": "3,1"
+    },
+    "Rio Grande do Sul": {
+      "Proporção acima de 10%": "19,5",
+      "Proporçăo acima de 25%": "3,9"
+    },
+    "Centro-Oeste": {
+      "Proporção acima de 10%": "17,3",
+      "Proporçăo acima de 25%": "3,5"
+    },
+    "Mato Grosso do Sul": {
+      "Proporção acima de 10%": "18,8",
+      "Proporçăo acima de 25%": "3,5"
+    },
+    "Mato Grosso": {
+      "Proporção acima de 10%": "16,8",
+      "Proporçăo acima de 25%": "2,9"
+    },
+    "Goiás": {
+      "Proporção acima de 10%": "18,4",
+      "Proporçăo acima de 25%": "4,1"
+    },
+    "Distrito Federal": {
+      "Proporção acima de 10%": 14,
+      "Proporçăo acima de 25%": "2,9"
+    }
+  }
+}
